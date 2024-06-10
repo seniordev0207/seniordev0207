@@ -1,5 +1,5 @@
 ![image](https://github.com/seniordev0207/seniordev0207/assets/121258713/0128f495-d7d8-4c4e-a117-36dab1c204a1)<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Full+Stack+Web+Developer;Certificated+Android+%26+iOS+App+Developer;Especially+Frontend+Development" alt="devtech77snake" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Web+Developer;Certificated+Android+%26+iOS+App+Developer;Especially+Frontend+Development" alt="devtech77snake" /></a>
 </p>
 
 <!-- Short Introduction -->
