@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Senior+Web+Developer;Android+%26+iOS+App+Developer;Especially+Backend+Development" alt="devtech77snake" /></a>
+![image](https://github.com/seniordev0207/seniordev0207/assets/121258713/0128f495-d7d8-4c4e-a117-36dab1c204a1)<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Full+Stack+Web+Developer;Certificated+Android+%26+iOS+App+Developer;Especially+Frontend+Development" alt="devtech77snake" /></a>
 </p>
 
 <!-- Short Introduction -->
@@ -14,29 +14,34 @@
 </h1>
 <p>I am a software engineer who can push the envelope, with a wealth of experience in web and mobile development, as well as DevOps engineering. I am adept at leveraging technologies like Docker and Kubernetes, and I am well-versed in the cloud technology realm, such as AWS, with a deep well of knowledge and substantial experience in my toolkit.</p>
 
-#### Web Development
+🚀=== PRACTICAL EXPERIENCES ===🚀
+✅Front-End
+– React/Redux, Next.js, Gatsby.js
+– Javascript, TypeScript, ECMAScript 6+
+– Vue, Vuex, Vuetify, Nuxt.js
+– Svelte, Sveltekit
+– Tailwind CSS, Bootstrap, Sass, Styled Component, Material UI, Ant Design, 
+– API Integration (REST, GraphQL, Stripe, Google Maps, Twilio, Socket.IO)
 
--   Basic: JavaScript, TypeScript, Python, Java, Ruby on Rails, Golang, C#, C++
--   Front-End: React.js, Next.js, Redux, Zustand, AngularJS, Vue.js, Nuxt.js
--   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Laravel, Java, Spring Boot, Ruby on Rails, .Net
--   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB
--   Tools: Jira, Trello
+✅Back-End
+– Node.js/Express.js
+– Golang
+– Python Django / Flask
+– Supabase, MySQL, MongoDB, PostgreSQL
 
-#### Mobile Development
+✅Others
+– Github, Gitlab, Bitbucket
+– Jira, Trello, Teamwork, Monday, Figma, etc
+– Amazon Web Services, CI/CD, Docker, etc
 
--   React Native/Ionic
--   Flutter/FlutterFlow
--   Swift
--   Kotlin
--   Bubble.io, 
+🚀=== SKILLS ===🚀
+- Leading & management skills.🌟
+- Fast learning skills.⏲️
+- Explanatory and training skills.🏆
+- Ability to work in a high-pressure environment.💣
+- Ability to work independently as well as in teamwork.🤝
+![image](https://github.com/seniordev0207/seniordev0207/assets/121258713/415b028d-b87a-4d86-9f98-ab9eacb5e82c)
 
-#### DevOps Engineering
-
--   Docker, Kubernetes, Ngnix, GitHub, Jenkins
--   Terraform, CDK, CloudFormation, Pulumi
--   Amazon Web Services(AWS Lambda, API Gateway, EC2, S3, EKS, ECS, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
--   Google Cloud Platform
--   Microsoft Azure
 
 <p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
 <p></p>
