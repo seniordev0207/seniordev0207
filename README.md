@@ -16,11 +16,11 @@
 
 #### Web Development
 
--   Basic: JavaScript, TypeScript, Python, Java, Ruby on Rails, Golang, C#, C++
--   Front-End: React.js, Next.js, Redux, Zustand, AngularJS, Vue.js, Nuxt.js
--   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Laravel, Java, Spring Boot, Ruby on Rails, .Net
--   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB
--   Tools: Jira, Trello
+-   Basic: JavaScript, TypeScript, Python, Java, Golang, C#, C++
+-   Front-End: React.js, Next.js, Redux, Gatsby.js, AngularJS, Vue.js, Nuxt.js
+-   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Laravel, Java, Spring Boot, .Net
+-   Database: Supabase, Firebase, MySQL, PostgreSQL, Oracle, SQLite, MongoDB
+-   Tools: Jira, Trello, ClickUp
 
 #### Mobile Development
 
