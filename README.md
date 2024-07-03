@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Web+Developer;Certificated+Android+%26+iOS+App+Developer;Especially+Frontend+Development" alt="devtech77snake" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Full+Stack+Web+Developer;Certificated+Android+%26+iOS+App+Developer;Especially+Frontend+Development" alt="devtech77snake" /></a>
 </p>
 
 <!-- Short Introduction -->
@@ -17,7 +17,7 @@
 #### Web Development
 
 -   Basic: JavaScript, TypeScript, Python, Java, Golang, C#, C++
--   Front-End: React.js, Next.js, Redux, Gatsby.js, AngularJS, Vue.js, Nuxt.js
+-   Front-End: React.js, Next.js, Redux, Gatsby.js, Angular, Vue.js, Nuxt.js
 -   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Laravel, Java, Spring Boot, .Net
 -   Database: Supabase, Firebase, MySQL, PostgreSQL, Oracle, SQLite, MongoDB
 -   Tools: Jira, Trello, ClickUp
